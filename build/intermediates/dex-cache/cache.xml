@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\feilz\AndroidStudioProjects\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\feilz\AndroidStudioProjects\TestLibMuseAndroid\app\build\intermediates\pre-dexed\release\classes-a0b48d4a84a518e51480849a3cffb571b05bc066.jar" />
+    </item>
+    <item
+        jar="C:\Users\feilz\AndroidStudioProjects\TestLibMuseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\feilz\AndroidStudioProjects\TestLibMuseAndroid\app\build\intermediates\pre-dexed\release\internal_impl-21.0.3-36e05195688ed773a5cdf0d08533d3840cf86a5a.jar" />
+    </item>
+    <item
+        jar="C:\Users\feilz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\feilz\AndroidStudioProjects\TestLibMuseAndroid\app\build\intermediates\pre-dexed\release\support-annotations-21.0.3-cc239f8a50bc1b5b340597052b9377ab0ff539a0.jar" />
+    </item>
+    <item
+        jar="C:\Users\feilz\AndroidStudioProjects\TestLibMuseAndroid\app\libs\libmuseandroid.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1b7a1ebe2d998c58d6ce2157fa29ef6df6fbdd38">
+        <dex dex="C:\Users\feilz\AndroidStudioProjects\TestLibMuseAndroid\app\build\intermediates\pre-dexed\release\libmuseandroid-e0c181b65f139aa46897f6f9819413ab9b8d04b5.jar" />
+    </item>
+
+</items>
